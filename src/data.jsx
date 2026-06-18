@@ -9,7 +9,7 @@ export const PROJECTS = [
     image: "/costume_management.png",
     tags: ["Flutter", "Dart", "Mobile App", "UI/UX", "State Management"],
     link: "#",
-    github: "https://github.com",
+    github: "https://github.com/Praditya27-stack/Costume-Management",
     features: [
       "Intuitive Home Dashboard displaying featured costumes",
       "Comprehensive Add Costume form with image upload capabilities",
@@ -31,7 +31,7 @@ export const PROJECTS = [
     fullDescription: "The PT AISIN Recruitment System is a massive enterprise web platform built to handle high-volume hiring workflows. It serves as a complete Applicant Tracking System (ATS) that streamlines the entire recruitment process from job posting on the career portal to automated interview scheduling and candidate tracking via an interactive HR dashboard. It also features real-time remote proctoring for technical assessments and automated email notifications. To ensure system integrity, advanced security layers such as a Zero-Trust architecture, Wazuh SIEM monitoring, and ClamAV/YARA file scanning were integrated as robust add-ons.",
     image: "/homepage_aisin.png",
     tags: ["Laravel", "MySQL", "Microservices", "HR Tech", "Docker", "Security"],
-    link: "#",
+    link: "https://www.aisin.id/career",
     github: "#",
     features: [
       "End-to-end Candidate Pipeline (ATS) with automated HR workflows",

@@ -73,9 +73,9 @@ function Home() {
             
             <div className="glass p-8 md:p-12 rounded-2xl border-l-4 border-l-neon-green relative overflow-hidden">
               <p className="text-lg md:text-xl leading-relaxed text-gray-300 relative z-10">
-                I am a passionate Informatics Student and <strong className="text-white">Full-Stack Laravel Developer</strong> with a specialized focus on <strong className="text-white">cybersecurity</strong>, <strong className="text-white">microservices</strong>, and <strong className="text-white">Zero Trust architectures</strong>.
+                I am an Informatics student and a dedicated <strong className="text-white">Web Developer</strong> with a passion for building modern digital experiences.
                 <br /><br />
-                My goal is to build enterprise-grade applications that are not only highly scalable and functional but also inherently secure from the ground up. I bridge the gap between complex server-side architectures, robust MySQL databases, and secure user experiences.
+                My goal is to create responsive, user-friendly, and scalable web applications. From crafting intuitive front-end interfaces to designing robust back-end systems, I focus on writing clean code to deliver seamless solutions that solve real-world problems.
               </p>
             </div>
           </div>
